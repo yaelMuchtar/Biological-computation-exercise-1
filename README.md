@@ -1,6 +1,6 @@
 # Biological-computation-exercise-1
-# Ori Karni 316499607
-# Yael Muchtar 208606079
+# Ori Karni
+# Yael Muchtar
 For using this code you need to install networkx library.
 To install this library you can uncomment lines 3 and 4 in ex1.py and run the file.
 The code provides the solution to: Question 1 - a, b, c and Question 2.
